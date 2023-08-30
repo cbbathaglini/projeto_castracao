@@ -1,6 +1,16 @@
 # Projeto Castração
 Sistema desenvolvido em Java, Spring e Hibernate que simula uma clínica pública de castração de animais
 
+1) Desenvolver o diagrama de classes
+2) Desenvolver o diagrama de casos de uso
+3) Desenvolver o diagrama de entidade relacionamento
+
+:bangbang: Importante :bangbang:
+- Lembre de desenvolver com Clean Code
+- utilize ao menos um desing pattern
+- lembre do SOLID
+- Utilize herança
+
 <h1>Informações de cadastro</h1>
 <h3>Pessoal da saúde:</h3>
 - CPF <br>
